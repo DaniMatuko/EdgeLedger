@@ -1,0 +1,24 @@
+/* WHAT WE DO */
+
+
+/* align icons to left */
+
+#what .item {
+    display: flex;
+    text-align: left;
+}
+
+#what .item i {
+    align-self: center;
+    margin-right: 1rem;
+}
+
+
+/* CONTACT */
+
+
+/* Larger Map */
+
+.map {
+    flex: 2;
+}
